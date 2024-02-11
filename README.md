@@ -1,6 +1,6 @@
 ## Portafolio - Emprendimiento de Negocios de Software
-- Introducción a la planeación de negocios TI
-- Estimación de costos
-- Gestión de negocios TI
-- Comercialización y financiamiento de negocios TI
-- Comunicación de negocios TI
+- U1 Introducción a la planeación de negocios TI
+- U2 Estimación de costos
+- U3 Gestión de negocios TI
+- U4 Comercialización y financiamiento de negocios TI
+- U5 Comunicación de negocios TI
